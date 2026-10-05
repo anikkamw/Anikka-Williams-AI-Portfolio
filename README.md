@@ -24,7 +24,7 @@ Focuses on statistical modeling, classification, and neural network architecture
 
   ### Natural Language Processing (ITAI 2373)
 Focuses on text processing, feature extraction, sentiment analysis, and sequence modeling.
-- **Featured Project:** [NewsBot Intelligence System](https://github.com/anikkamw/Anikka-Williams-AI-Portfolio/tree/main/ITAI2373-NewsBot-Midterm) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.classification, sentiment evaluation, and entity extraction.
+- **Featured Project:** [NewsBot Intelligence System](./ITAI2373-NewsBot-Midterm) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
 
 ## ✉️ Professional Contact
 - **LinkedIn:** [Anikka Williams](https://linkedin.com/in/anikkawilliams)
