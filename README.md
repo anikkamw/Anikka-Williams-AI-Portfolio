@@ -22,9 +22,9 @@ Focuses on statistical modeling, classification, and neural network architecture
 - **Featured Project:** [Marine Debris Detection](https://github.com/anikkamw/Anikka-Williams-ML-Course/tree/main/Projects/Final%20Project) - CNN for classifying marine waste types.
 - **Key Deliverables:** Vision Transformer (ViT) Midterm and Supervised Learning Labs.
 
-  ### Natural Language Processing (ITAI 2373)
+  ### [Natural Language Processing (ITAI 2373)](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373)
 Focuses on text processing, feature extraction, sentiment analysis, and sequence modeling.
-- **Featured Project:** [NewsBot Intelligence System](./ITAI2373-NewsBot-Midterm) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
+- **Featured Project:** [NewsBot Intelligence System](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373/tree/main/Mid%20Term%20Project) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
 
 ## ✉️ Professional Contact
 - **LinkedIn:** [Anikka Williams](https://linkedin.com/in/anikkawilliams)
