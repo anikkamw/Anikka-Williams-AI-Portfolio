@@ -26,10 +26,9 @@ Focuses on statistical modeling, classification, and neural network architecture
 Focuses on text processing, feature extraction, sentiment analysis, and sequence modeling.
 - **Featured Project:** [NewsBot Intelligence System](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373/tree/main/Mid%20Term%20Project) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
 
-### Artificial Intel Applications (ITAI 2372)
+### [Artificial Intel Applications (ITAI 2372)](https://github.com/anikkamw/ITAI-2372-Artificial-Intel-Applications)
 Focuses on practical AI deployment, NLP, and medical computer vision triage systems.
-
-- **Featured Project:** MangeVision AI Diagnostic Tool - Vision Transformer (ViT) & deep learning triage engine for animal dermatological classification.
+- **Featured Project:** [MangeVision AI Diagnostic Tool](https://github.com/anikkamw/ITAI-2372-Artificial-Intel-Applications/blob/main/2372_Module_3_Anikka_Williams.ipynb) - Vision Transformer (ViT) & deep learning triage engine for animal dermatological classification.
 - **Key Deliverables:** Module 03 Healthcare AI Application Notebook.
 
 ## ✉️ Professional Contact
