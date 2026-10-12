@@ -22,9 +22,15 @@ Focuses on statistical modeling, classification, and neural network architecture
 - **Featured Project:** [Marine Debris Detection](https://github.com/anikkamw/Anikka-Williams-ML-Course/tree/main/Projects/Final%20Project) - CNN for classifying marine waste types.
 - **Key Deliverables:** Vision Transformer (ViT) Midterm and Supervised Learning Labs.
 
-  ### [Natural Language Processing (ITAI 2373)](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373)
+### [Natural Language Processing (ITAI 2373)](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373)
 Focuses on text processing, feature extraction, sentiment analysis, and sequence modeling.
 - **Featured Project:** [NewsBot Intelligence System](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373/tree/main/Mid%20Term%20Project) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
+
+### Artificial Intel Applications (ITAI 2372)
+Focuses on practical AI deployment, NLP, and medical computer vision triage systems.
+
+- **Featured Project:** [MangeVision AI Diagnostic Tool](https://github.com/anikkamw/ITAI-2372-AI-in-Healthcare/blob/main/2372_Module_03_Anikka_Williams.ipynb) - Vision Transformer (ViT) & deep learning triage engine for animal dermatological classification.
+- **Key Deliverables:** Module 03 Healthcare AI Application Notebook.
 
 ## ✉️ Professional Contact
 - **LinkedIn:** [Anikka Williams](https://linkedin.com/in/anikkawilliams)
