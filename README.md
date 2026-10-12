@@ -29,7 +29,7 @@ Focuses on text processing, feature extraction, sentiment analysis, and sequence
 ### Artificial Intel Applications (ITAI 2372)
 Focuses on practical AI deployment, NLP, and medical computer vision triage systems.
 
-- **Featured Project:** [MangeVision AI Diagnostic Tool](https://github.com/anikkamw/ITAI-2372-AI-in-Healthcare/blob/main/2372_Module_03_Anikka_Williams.ipynb) - Vision Transformer (ViT) & deep learning triage engine for animal dermatological classification.
+- **Featured Project:** MangeVision AI Diagnostic Tool - Vision Transformer (ViT) & deep learning triage engine for animal dermatological classification.
 - **Key Deliverables:** Module 03 Healthcare AI Application Notebook.
 
 ## ✉️ Professional Contact
