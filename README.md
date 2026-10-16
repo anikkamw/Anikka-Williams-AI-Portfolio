@@ -24,7 +24,7 @@ Focuses on statistical modeling, classification, and neural network architecture
 
 ### [Natural Language Processing (ITAI 2373)](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373)
 Focuses on text processing, feature extraction, sentiment analysis, and sequence modeling.
-- **Featured Project:** [NewsBot Intelligence System](https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373/tree/main/Mid%20Term%20Project) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
+- ** Featured Project: ** [NewsBot Intelligence System ] (https://github.com/anikkamw/Anikka-Williams-NLP-ITAI2373/tree/main/ITAI2373-NewsBot-Midterm ) - An end-to-end NLP pipeline for automated news classification, sentiment evaluation, and entity extraction.
 
 ### [Artificial Intel Applications (ITAI 2372)](https://github.com/anikkamw/ITAI-2372-Artificial-Intel-Applications)
 Focuses on practical AI deployment, NLP, and medical computer vision triage systems.
